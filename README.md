@@ -14,4 +14,4 @@
     
 - 📫 How to reach me on ...
     
-    Shae#1854
+    Discord : Shae#1854
