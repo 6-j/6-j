@@ -6,7 +6,7 @@
     
 - 🌱 I’m currently learning ...
     
-    Java, C++, C# and lua
+    Java, C++, C#, lua and html (I know a lot)
 
 - 💞️ I’m looking to collaborate on ...
     
